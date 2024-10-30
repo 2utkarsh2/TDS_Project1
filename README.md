@@ -1,6 +1,8 @@
 # TDS_Project1
 This project contains data on GitHub users based in Dublin with over 50 followers, as well as their repository information. The data was collected using the GitHub API through a custom Python script. 
 
+#######SCRAPING DATA#######
+
 ***********Search for Users***********--->
 The GitHub API was used to search for users with:
 Location set to "Dublin"
@@ -16,8 +18,11 @@ Number of stars and watchers
 Main programming language used
 Additional repository attributes such as whether it has projects and a wiki enabled, and the license type (if any).
 
-**********Output*********--->
+*********Output*********--->
 The data is saved in two CSV files:
 
 users.csv: Contains profile information for each GitHub user in Dublin with over 50 followers.
 repositories.csv: Contains data for up to 500 public repositories for each of these users.
+
+#######DATA ANALYSIS#######
+
