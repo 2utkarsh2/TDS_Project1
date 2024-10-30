@@ -1,7 +1,7 @@
 # TDS_Project1
 This project contains data on GitHub users based in Dublin with over 50 followers, as well as their repository information. The data was collected using the GitHub API through a custom Python script. 
 
-***********Search for Users************
+***********Search for Users***********
 The GitHub API was used to search for users with:
 Location set to "Dublin"
 Minimum followers set to 50
