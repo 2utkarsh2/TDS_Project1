@@ -148,7 +148,7 @@ class GitHubScraper:
 
 def main():
     # GitHub token
-    token = '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'
+    token = 'github_pat_11A5B35IY0pd1lvFnIkvFB_uW22IeYW82UObbWCp72UavOom1rEyqbLxxxxx'
 
     # Initialize scraper
     scraper = GitHubScraper(token)
